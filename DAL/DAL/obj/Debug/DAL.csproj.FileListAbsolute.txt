@@ -1,0 +1,16 @@
+D:\Projects\DroidHashGPSMap\DAL\DAL\bin\Debug\DAL.dll
+D:\Projects\DroidHashGPSMap\DAL\DAL\bin\Debug\DAL.pdb
+D:\Projects\DroidHashGPSMap\DAL\DAL\bin\Debug\DAL.pri
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\DAL.dll
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\DAL.pdb
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\priconfig.xml
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\priconfig.xml.intermediate
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\layout.resfiles
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\layout.resfiles.intermediate
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\resources.resfiles
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\resources.resfiles.intermediate
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\pri.resfiles
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\pri.resfiles.intermediate
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\qualifiers.txt
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\qualifiers.txt.intermediate
+D:\Projects\DroidHashGPSMap\DAL\DAL\obj\Debug\MultipleQualifiersPerDimensionFound.txt

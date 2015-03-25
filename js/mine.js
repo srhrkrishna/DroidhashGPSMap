@@ -7,5 +7,5 @@
     //    //lat: '<%=latitude%>',
     //    //lng: '<%=longitude%>'
     //});
-    map.setCenter(11.071777, 77.001631);
+    map.setCenter(lat, long);
 }

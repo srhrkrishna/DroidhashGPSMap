@@ -3,13 +3,17 @@ body {
     margin: 0px;
 }
 
+html, body {
+    height:100%;
+}
+
 #map {
-    display: block;
+    display: inline-block;
     width: 100%;
-    height: 635px;
+    height: 88%;
     min-height: 300px;
-    max-height: 700px;
-    overflow: scroll;
+    overflow: auto;
+    position:absolute;
 }
 
     #map.large {

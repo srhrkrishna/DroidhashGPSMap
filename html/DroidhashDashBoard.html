@@ -37,7 +37,6 @@
 
         // listen for the window resize event & trigger Google Maps to update too
         $(window).resize(function () {
-            alert('resize');
             setTimeout(function () {
                 google.maps.event.trigger(map, 'resize');
             }, 100);

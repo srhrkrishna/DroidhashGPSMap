@@ -10,8 +10,8 @@ html, body {
 #map {
     display: inline-block;
     width: 100%;
-    bottom:22px;
-    top:87px;
+    bottom:20px;
+    top:85px;
     min-height: 300px;
     overflow: auto;
     position:absolute;
